@@ -6,7 +6,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Biodiversity-n-Nature-Reporting/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Biodiversity-n-Nature-Reporting?style=flat-square&color=gold" alt="GitHub Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Biodiversity-n-Nature-Reporting/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Biodiversity-n-Nature-Reporting?style=flat-square&color=blue" alt="GitHub Forks"/></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Biodiversity-n-Nature-Reporting/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Biodiversity-n-Nature-Reporting?style=flat-square&color=green" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Biodiversity-n-Nature-Reporting/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Biodiversity-n-Nature-Reporting?style=flat-square&color=green" alt="License"/></a><a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ## 🚀 Top Biodiversity & Nature Reporting Ecosystem
@@ -30,7 +30,9 @@
 - [Open-Source GitHub Projects](#-open-source-github-projects)
 - [Framework Comparison & Selection Guide](#-framework-comparison--selection-guide)
 - [How to Contribute](#-how-to-contribute)
+- [Support & Sponsorship](#-support--sponsorship)
 - [Disclaimer](#-disclaimer)
+- [Star History](#-star-history)
 
 ---
 
@@ -118,11 +120,27 @@ Explore top-rated open-source repositories for self-hosting, geospatial pipeline
 
 ---
 
+## 💖 Support & Sponsorship
+
+Thank you for exploring and using this curated resource! If you find this list helpful for your sustainability research, corporate disclosures, or open-source projects, please consider supporting the project:
+
+- ⭐ **Star** this repository on GitHub to help others discover it.
+- 🔀 **Fork** and share it with your colleagues, sustainability teams, and researchers.
+- ☕ **Buy Me a Coffee**: If you'd like to support ongoing maintenance and research, visit the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
 ## ⚠️ Disclaimer
 
 - This curated list is maintained by the community for informational and research purposes.
 - SaaS prices, valuations, and open-source star counts are updated periodically (Last check: September 2026).
 - Satellite-based metrics and eDNA monitoring complement each other; remote sensing does not eliminate the need for ground-truth field sampling in regulated disclosure contexts.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Biodiversity-n-Nature-Reporting&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Biodiversity-n-Nature-Reporting&type=date&legend=top-left)
 
 ---
 
