@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Biodiversity-n-Nature-Reporting/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Biodiversity-n-Nature-Reporting?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Biodiversity-n-Nature-Reporting/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Biodiversity-n-Nature-Reporting?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Biodiversity-n-Nature-Reporting/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Biodiversity-n-Nature-Reporting?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Biodiversity-n-Nature-Reporting/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Biodiversity-n-Nature-Reporting?style=flat-square&color=green" alt="License"/></a><a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -57,7 +57,7 @@ Below is the structured breakdown of leading commercial SaaS platforms evaluated
 
 ## 💻 Open-Source GitHub Projects
 
-Explore top-rated open-source repositories for self-hosting, geospatial pipeline automation, taxonomic indexing, and independent biodiversity metrics calculation. *Sorted by GitHub Star Count (Descending)* 🌟:
+Explore top-rated open-source repositories for self-hosting, geospatial pipeline automation, taxonomic indexing, and independent biodiversity metrics calculation. *Sorted by GitHub Stars_Count (Descending)* 🌟:
 
 - **[microsoft/Biodiversity](https://github.com/microsoft/Biodiversity)** [![Stars](https://img.shields.io/github/stars/microsoft/Biodiversity?style=social&color=white)](https://github.com/microsoft/Biodiversity/stargazers)  
   🤖 **Microsoft AI for Good Lab** — Comprehensive open-source AI tools, deep learning models, and edge computing software for biodiversity monitoring. Contains MegaDetector for camera-trap animal detection, Bioacoustics ML pipelines, and PyTorchWildlife framework.
@@ -114,8 +114,8 @@ Explore top-rated open-source repositories for self-hosting, geospatial pipeline
 ## 🤝 How to Contribute 📝
 
 1. Fork this repository 🍴
-2. Add/edit entries in `README.md` following the established table / star badge format.
-3. Verify that SaaS entries include specific pricing, free trial limits, and valuation data, and open-source repos include verified GitHub star count links.
+2. Add/edit entries in `README.md` following the established table / Stars_Badge format.
+3. Verify that SaaS entries include specific pricing, free trial limits, and valuation data, and open-source repos include verified GitHub Stars_Count links.
 4. Open a Pull Request with a summary of changes 🚀
 
 ---
@@ -133,7 +133,7 @@ Thank you for exploring and using this curated resource! If you find this list h
 ## ⚠️ Disclaimer
 
 - This curated list is maintained by the community for informational and research purposes.
-- SaaS prices, valuations, and open-source star counts are updated periodically (Last check: September 2026).
+- SaaS prices, valuations, and open-source Stars_Counts are updated periodically (Last check: September 2026).
 - Satellite-based metrics and eDNA monitoring complement each other; remote sensing does not eliminate the need for ground-truth field sampling in regulated disclosure contexts.
 
 ---
